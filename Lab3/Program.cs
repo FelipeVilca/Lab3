@@ -7,6 +7,7 @@ namespace Lab3
 {
 	internal class Program
 	{
+		//Finished
 		// The signature that starts each PNG file. This array is used to check if the opened file is a PNG or not
 		private static byte[] PngSignature = new byte[] { 0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a };
 
